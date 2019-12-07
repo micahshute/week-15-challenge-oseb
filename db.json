@@ -1,0 +1,47 @@
+{
+    "heroes": [
+        {
+            "name": "Achilles",
+            "mainTrait": "Invulnerability",
+            "accomplishments": [
+                "Slaying Hector",
+                "Trojan War"
+            ]
+        },
+        {
+            "name": "Spidey",
+            "mainTrait": "Peter Tingle",
+            "accomplishments": [
+                "Defeating the Green Goblin",
+                "Iron Man Protege",
+                "MJ"
+            ]
+        },
+        {
+            "name": "Perseus",
+            "mainTrait": "Resourceful",
+            "accomplishments": [
+                "Killing Medusa",
+                "Killing Cetus"
+            ]
+        },
+        {
+            "name": "Tony Star",
+            "mainTrait": "Intelligence",
+            "accomplishments":
+            [
+                "Saving the universe",
+                "Jarvis",
+                "Exoskeleton Development"
+            ]
+        },
+        {
+            "name": "Odysseus",
+            "mainTrait": "Intelligence",
+            "accomplishments": [
+                "Trojan Horse",
+                "Blinding Polyphemus"
+            ]
+        }
+    ]
+}
